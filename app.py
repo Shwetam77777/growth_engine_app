@@ -28,7 +28,7 @@ try:
     # Try fetching from Streamlit Secrets (Works on Cloud & Local if configured)
     api_key = st.secrets["GOOGLE_API_KEY"]
     genai.configure(api_key=api_key)
-    model = genai.GenerativeModel('gemini-2.0-flash') # Using Flash for speed/cost efficiency
+    model = genai.GenerativeModel('gemini-1.5-flash')   # Using Flash for speed/cost efficiency
 except Exception as e:
     st.error("⚠️ API Key missing! Please set 'GOOGLE_API_KEY' in your .streamlit/secrets.toml file.")
     st.stop()
