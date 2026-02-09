@@ -112,14 +112,3 @@ GOOGLE_API_KEY = "AIzaSy...[PASTE YOUR KEY HERE]"
 ​📄 License
 ​Distributed under the MIT License. See LICENSE for more information.
 ​Built with ❤️ by Shweta Mishra 
-
-
-
-
-
-
-
-
-
-
-
