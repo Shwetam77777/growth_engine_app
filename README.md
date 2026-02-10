@@ -12,6 +12,7 @@
 
 ## 📖 Overview
 
+
 **Growth Engine AI** is a Human-in-the-Loop (HITL) application that leverages the **Google Gemini LLM** to eliminate writer's block and optimize content for social media algorithms. 
 
 Unlike automation tools that risk account bans, this app focuses on **content creation and strategy**. It uses "Intent-based" posting, allowing you to generate high-quality drafts and post them directly to social platforms with a single click, keeping your account 100% safe.
